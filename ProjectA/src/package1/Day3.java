@@ -10,7 +10,7 @@ public class Day3
   
   public Day3(int a )
   {
-	  System.out.println("one parameterized constructor");
+	  System.out.println("one parameterized  constructor");
   }
   
 

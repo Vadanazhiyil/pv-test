@@ -37,7 +37,7 @@ public class Day2
         int oper2 = assignment1.sum(oper1, 2);
         int oper3 = assignment1.sub(oper2, 2);
         int oper4 = assignment1.multi(oper3,2);
-        int oper5 = assignment1.div(oper4, 2);
+        int oper5 = assignment1.div(oper4, 2); 
         
          System.out.println("Result of assignment 1 is "+ oper5);
          
